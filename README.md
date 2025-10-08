@@ -59,21 +59,21 @@
 
 ### GITHUB STATS 📊
 
-<p>
-  <a href="https://git.io/streak-stats">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=KhangD23PTIT&theme=dark" alt="GitHub Streak"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangD23PTIT&layout=compact&langs_count=6&theme=dark&title_color=D14836&icon_color=D14836&hide_border=true" alt="Khang's Top Languages"/>
-  </a>
-  
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KhangD23PTIT&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=D14836&icon_color=D14836&hide_border=true" alt="Khang's GitHub Stats"/>
   </a>
+  <br>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhangD23PTIT&theme=dark" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangD23PTIT&layout=compact&langs_count=6&theme=dark&title_color=D14836&icon_color=D14836&hide_border=true" alt="Khang's Top Languages"/>
+  </a>
 </p>
 
-<p>
-  <br clear="all">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=KhangD23PTIT&theme=dark" alt="GitHub Trophies" />
   </a>
