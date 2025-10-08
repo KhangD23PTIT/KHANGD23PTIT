@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="https://sf-static.upanhlaylink.com/img/image_20251008d5eaa90c0748b78622473987c5c6bed3.jpg" alt="Khang's Avatar" width="150" style="border-radius: 50%;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" width="80%">
 </p>
 
 <h1 align="center">Hi there, I'm Khang 👋</h1>
 
 <p align="center">
+  <img src="https://sf-static.upanhlaylink.com/img/image_20251008d5eaa90c0748b78622473987c5c6bed3.jpg" alt="Khang's Avatar" width="120" style="border-radius: 50%;">
+</p>
+
+<p align="center">
   <em>Sinh viên ngành Công nghệ Phần mềm tại <b>Học viện Công nghệ Bưu chính Viễn thông (PTIT)</b></em>
   <br>
-  <em>Đam mê lập trình, phát triển web và luôn tìm tòi học hỏi công nghệ mới.</em>
+  <em>Đam mê lập trình, phát triển web và luôn tìm tòi học hỏi công nghệ mới, đặc biệt là sự giao thoa giữa Code và Design.</em>
 </p>
 
 <p align="center">
@@ -16,28 +20,24 @@
 
 ---
 
-### CONNECT WITH ME 📬
+### CONNECT WITH ME & FOLLOW ME 📬
 <p align="center">
   <a href="https://github.com/KhangD23PTIT">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+    <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
   &nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/your-facebook-username/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
 
 ---
 
-### LANGUAGES AND TOOLS 🛠️
+### LANGUAGES, TOOLS & DESIGN STACK 🎨
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -45,33 +45,39 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <br>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
 
-### MY GITHUB STATS 📊
+### 🚀 GITHUB PERFORMANCE STATS
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KhangD23PTIT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Khang's GitHub Stats"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=KhangD23PTIT&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&hide_border=true" alt="Khang's GitHub Stats"/>
   </a>
-  
-  <br/>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhangD23PTIT&theme=dracula" alt="GitHub Streak"/>
-  </a>
-  
-  <br/>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangD23PTIT&layout=compact&langs_count=8&theme=dracula" alt="Khang's Top Languages"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangD23PTIT&layout=compact&langs_count=6&theme=outrun&hide_border=true" alt="Khang's Top Languages"/>
+  </a>
+
+</p>
+<br clear="both"> <br>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhangD23PTIT&theme=outrun" alt="GitHub Streak"/>
   </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 ACHIEVEMENT HALL
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -81,7 +87,7 @@
 
 ---
 
-### 📝 Random Dev Quote
+### 💭 CREATIVE WISDOM
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
