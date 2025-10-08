@@ -48,7 +48,6 @@
   <br>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
@@ -58,37 +57,35 @@
 ### 🚀 GITHUB PERFORMANCE STATS
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=KhangD23PTIT&show_icons=true&theme=outrun&include_all_commits=true&count_private=true&hide_border=true" alt="Khang's GitHub Stats"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangD23PTIT&layout=compact&langs_count=6&theme=outrun&hide_border=true" alt="Khang's Top Languages"/>
-  </a>
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <div style="flex-basis: 48%; min-width: 300px; margin-bottom: 20px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=KhangD23PTIT&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" alt="Khang's GitHub Stats"/>
+      </a>
+      
+      <br/>
+      
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=KhangD23PTIT&theme=synthwave" alt="GitHub Trophies" />
+      </a>
+    </div>
 
-</p>
-<br clear="both"> <br>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhangD23PTIT&theme=outrun" alt="GitHub Streak"/>
-  </a>
+    <div style="flex-basis: 48%; min-width: 300px; margin-bottom: 20px;">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhangD23PTIT&theme=outrun" alt="GitHub Streak"/>
+      </a>
+      
+      <br/>
+      
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangD23PTIT&layout=compact&langs_count=6&theme=outrun&hide_border=true" alt="Khang's Top Languages"/>
+      </a>
+      
+      <br/>
+      
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+    </div>
+  </div>
 </p>
 
 ---
-
-### 🏆 ACHIEVEMENT HALL
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KhangD23PTIT&theme=dracula" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-### 💭 CREATIVE WISDOM
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</p>
