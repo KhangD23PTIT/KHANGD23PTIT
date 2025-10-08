@@ -52,9 +52,23 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <p align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DKhangD23PTIT%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Khang's GitHub Stats"/>
 
+### 💻 GitHub Stats:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHANGD23PTIT&show_icons=true&theme=dark&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHANGD23PTIT&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KHANGD23PTIT&theme=dark)](https://git.io/streak-stats)
 
 
 
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DKhangD23PTIT%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Khang's Top Languages"/>
+
+### 🛠️ Tech Stack:
+
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
