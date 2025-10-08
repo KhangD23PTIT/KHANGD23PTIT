@@ -1,74 +1,137 @@
 <p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+  <img src="<p align="center">
+  <img src="" alt="Khang's Avatar" width="150" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi there, I'm Khang 👋</h1>
 
 <p align="center">
-<em>Sinh viên ngành Công nghệ Phần mềm tại <b>Học viện Công nghệ Bưu chính Viễn thông (PTIT)</b></em>
-
-
-
-
-
-<em>Đam mê lập trình, phát triển web và luôn tìm tòi học hỏi công nghệ mới.</em>
+  <em>Sinh viên ngành Công nghệ Phần mềm tại <b>Học viện Công nghệ Bưu chính Viễn thông (PTIT)</b></em>
+  <br>
+  <em>Đam mê lập trình, phát triển web và luôn tìm tòi học hỏi công nghệ mới.</em>
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DKhangD23PTIT%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="KhangD23PTIT" />
+  <img src="https://komarev.com/ghpvc/?username=KhangD23PTIT&label=Profile%20views&color=0e75b6&style=flat" alt="KhangD23PTIT" />
 </p>
 
-CONNECT WITH ME 📬
+---
+
+### CONNECT WITH ME 📬
 <p align="center">
-<a href="mailto:your-email@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dflat%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dflat%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://www.facebook.com/your-facebook-username/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dflat%26logo%3Dfacebook%26logoColor%3Dwhite" />
-</a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  &nbsp; <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/your-facebook-username/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" />
+  </a>
 </p>
 
-LANGUAGES AND TOOLS 🛠️
+---
+
+### LANGUAGES AND TOOLS 🛠️
 <p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-MY GITHUB STATS 📊
-<!--
-QUAN TRỌNG: Hãy đảm bảo rằng username=KhangD23PTIT là đúng với tên người dùng của bạn.
-Bạn có thể đổi theme bằng cách thay đổi giá trị theme=dracula thành các theme khác như:
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
--->
+---
+
+### MY GITHUB STATS 📊
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KhangD23PTIT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Khang's GitHub Stats"/>
+  </a>
+  
+  <br/>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhangD23PTIT&theme=dracula" alt="GitHub Streak"/>
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangD23PTIT&layout=compact&langs_count=8&theme=dracula" alt="Khang's Top Languages"/>
+  </a>
+</p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DKhangD23PTIT%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Khang's GitHub Stats"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+</p>" alt="Khang's Avatar" width="150" style="border-radius: 50%;">
+</p>
 
-### 💻 GitHub Stats:
+<h1 align="center">Hi there, I'm Khang 👋</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHANGD23PTIT&show_icons=true&theme=dark&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <em>Sinh viên ngành Công nghệ Phần mềm tại <b>Học viện Công nghệ Bưu chính Viễn thông (PTIT)</b></em>
+  <br>
+  <em>Đam mê lập trình, phát triển web và luôn tìm tòi học hỏi công nghệ mới.</em>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KHANGD23PTIT&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhangD23PTIT&label=Profile%20views&color=0e75b6&style=flat" alt="KhangD23PTIT" />
+</p>
 
-### 🔥 Contribution Streak
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KHANGD23PTIT&theme=dark)](https://git.io/streak-stats)
+### CONNECT WITH ME 📬
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  &nbsp; <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/your-facebook-username/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" />
+  </a>
+</p>
 
+---
 
+### LANGUAGES AND TOOLS 🛠️
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DKhangD23PTIT%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Khang's Top Languages"/>
+---
 
-### 🛠️ Tech Stack:
+### MY GITHUB STATS 📊
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KhangD23PTIT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Khang's GitHub Stats"/>
+  </a>
+  
+  <br/>
 
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhangD23PTIT&theme=dracula" alt="GitHub Streak"/>
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangD23PTIT&layout=compact&langs_count=8&theme=dracula" alt="Khang's Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 </p>
