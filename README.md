@@ -17,11 +17,9 @@
 ---
 
 ### ABOUT ME 💡
-<p align="center">
-  💻 Multimedia student passionate about illustration and creative design.<br>
-  📚 Studying Multimedia Design and exploring UI/UX.<br>
-  🎨 Sharing my journey and artworks online.
-</p>
+- 💻 Multimedia student passionate about illustration and creative design.<br>
+- 📚 Studying Multimedia Design and exploring UI/UX.<br>
+- 🎨 Sharing my journey and artworks online.
 
 ---
 
@@ -38,15 +36,11 @@
   <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  &nbsp;
-  <a href="https://www.facebook.com/your-facebook-username/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
-  </a>
 </p>
 
 ---
 
-### LANGUAGES, TOOLS & DESIGN STACK 🎨
+### TECH STACK 🛠️
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -63,39 +57,39 @@
 
 ---
 
-### GITHUB ACTIVITY 📊
+### GITHUB STATS 📊
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1 1 45%; min-width: 300px; max-width: 48%;">
-    <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=KhangD23PTIT&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=D14836&text_color=B3B3B3&icon_color=D14836" alt="Khang's GitHub Stats"/>
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=KhangD23PTIT&theme=dark" alt="GitHub Trophies" />
-      </a>
-    </p>
-  </div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KhangD23PTIT&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=D14836&icon_color=D14836&hide_border=true" alt="Khang's GitHub Stats"/>
+  </a>
+</p>
 
-  <div style="flex: 1 1 45%; min-width: 300px; max-width: 48%;">
-    <p align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhangD23PTIT&theme=dark" alt="GitHub Streak"/>
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangD23PTIT&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=D14836&text_color=B3B3B3&icon_color=D14836" alt="Khang's Top Languages"/>
-      </a>
-    </p>
-  </div>
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhangD23PTIT&theme=dark" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhangD23PTIT&layout=compact&langs_count=6&theme=dark&title_color=D14836&icon_color=D14836&hide_border=true" alt="Khang's Top Languages"/>
+  </a>
+</p>
 
 ---
 
-### 💭 CREATIVE WISDOM
+### 🏆 GITHUB TROPHIES
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KhangD23PTIT&theme=dark" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 💭 RANDOM DEV QUOTE
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
